@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(255, 102, 0);
+}
+.topNav{
+    background-color: rgb(226, 231, 148);
+    height:2cm;
+    opacity: 0.4cm;
+    text-decoration: solid;
+    font-size: 0.5cm;
+    padding: 0.2rem;
+}
+.Contact_Us{ color:rgb(0, 0, 0);
+    text-decoration:double;
+}
+.Locations{ color:rgb(0, 0, 0);
+    text-decoration: none;
+}
+.Admission{
+    color: black;
+    text-decoration: dotted;
+}

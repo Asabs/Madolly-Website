@@ -1,0 +1,27 @@
+body{
+    background-size: 300px 100px;
+    padding: 30%;
+    
+    background:url(locate.jpg); 
+    background-repeat:no-repeat;
+    background-size: cover;
+   
+    
+    
+}
+.Home{ color: rgb(255, 255, 255);
+    text-decoration:wavy;
+}
+.Contact_Us{ color:rgb(255, 255, 255);
+    text-decoration: none;
+}
+.topNav{ background-color: rgb(255, 0, 0);
+    position: absolute;
+    top: -1rem;
+    left: 0;
+    right: 0;
+    height: 4rem;
+    font-size:1.3rem;
+    padding: 1rem;
+    opacity: 0.5;
+}
